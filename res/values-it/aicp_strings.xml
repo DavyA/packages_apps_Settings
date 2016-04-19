@@ -1,0 +1,1009 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+          Copyright (C) 2009 The Android Open Source Project
+
+          Licensed under the Apache License, Version 2.0 (the "License");
+          you may not use this file except in compliance with the License.
+          You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an "AS IS" BASIS,
+          WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+          See the License for the specific language governing permissions and
+          limitations under the License.
+
+          Editor: 
+            ArtfulBits Inc. (c) 2005-2009 (http://www.artfulbits.com)
+            Android Localizer (aiLocalizer)
+        -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--Original value: AICP Extras-->
+  <string name="aicp_settings_title">Extra AICP</string>
+  <!--Original value: AICP External-->
+  <string name="aicp_settings_external_title">AICP External</string>
+  <!--Original value: Personalization-->
+  <string name="header_category_personalization">Personalizzazioni</string>
+  <!--Original value: SuperSU-->
+  <string name="supersu_title">SuperSU</string>
+  <!--Original value: Reset-->
+  <string name="reset">Reset</string>
+  <!--Original value: Attention-->
+  <string name="attention">Attenzione
+</string>
+  <!--Original value: "A. I. C. P."-->
+  <string name="easter_egg_snack">"A. I. C. P."</string>
+  <!--Original value: General-->
+  <string name="general_options_title">Generali</string>
+  <!--Original value: Lights in do not disturb mode-->
+  <string name="allow_lights_title">Lights in do not disturb mode</string>
+  <!--Original value: Color Picker-->
+  <string name="dialog_color_picker">Color Picker</string>
+  <!--Original value: Press on color below to apply-->
+  <string name="press_color_to_apply">Press on color below to apply</string>
+  <!--Original value: →-->
+  <string name="arrow_right">→</string>
+  <!--Original value: ↓-->
+  <string name="arrow_down">↓</string>
+  <!--Original value: Hex:-->
+  <string name="hex">Hex:</string>
+  <!--Original value: #ff000000-->
+  <string name="hex_hint">#ff000000</string>
+  <!--Original value: Set-->
+  <string name="set">Set</string>
+  <!--Original value: Default-->
+  <string name="color_default">Default</string>
+  <!--Original value: Media cover art-->
+  <string name="media_art_title">Media cover art</string>
+  <!--Original value: Enable media cover art on the lockscreen-->
+  <string name="media_art_summary">Mostra la copertina dei media nella lockscreen</string>
+  <!--Original value: Link ring and notification volumes-->
+  <string name="link_volume_option_title">Collega i volumi della suoneria e delle notifiche</string>
+  <!--Original value: Notification volume-->
+  <string name="notification_volume_option_title">Volume delle Notiche</string>
+  <!--Original value: Ring and notification volume-->
+  <string name="ring_notification_volume_option_title">Volume della suoneria e delle notifiche</string>
+  <!--Original value: Kill app back button timeout-->
+  <string name="hold_back_to_kill_timeout_title">Tempo di pressione del punsante indietro per chiudere l'app</string>
+  <!--Original value: Default-->
+  <string name="default_string">Default</string>
+  <!--Original value: Volume steps-->
+  <string name="volume_steps_title">Volume steps</string>
+  <!--Original value: Volume steps: Alarm-->
+  <string name="volume_steps_alarm_title">Volume steps: Alarmi</string>
+  <!--Original value: Volume steps: DTMF-->
+  <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
+  <!--Original value: Volume steps: Music-->
+  <string name="volume_steps_music_title">Volume steps: Musica</string>
+  <!--Original value: Volume steps: Notification-->
+  <string name="volume_steps_notification_title">Volume steps: Notifiche</string>
+  <!--Original value: Volume steps: Ringer-->
+  <string name="volume_steps_ring_title">Volume steps: Suoneria</string>
+  <!--Original value: Volume steps: System-->
+  <string name="volume_steps_system_title">Volume steps: Sistema</string>
+  <!--Original value: Volume steps: Voice Call-->
+  <string name="volume_steps_voice_call_title">Volume steps: Chiamata vocale</string>
+  <!--Original value: Reset-->
+  <string name="volume_steps_reset">Reset</string>
+  <!--Original value: 60-->
+  <string name="volume_steps_60">60</string>
+  <!--Original value: 45-->
+  <string name="volume_steps_45">45</string>
+  <!--Original value: 30-->
+  <string name="volume_steps_30">30</string>
+  <!--Original value: 15-->
+  <string name="volume_steps_15">15</string>
+  <!--Original value: 7-->
+  <string name="volume_steps_7">7</string>
+  <!--Original value: 5-->
+  <string name="volume_steps_5">5</string>
+  <!--Original value: Reset all dimensions entries to default?-->
+  <string name="navigation_bar_dimensions_reset_message">Sostituire tute le dimensioni inserite con quelle di default?</string>
+  <!--Original value: Nav bar dimensions-->
+  <string name="navigation_bar_dimensions_title">Dimensioni della barra di navigazione</string>
+  <!--Original value: Resize the navigation bar-->
+  <string name="navigation_bar_dimensions_title_summary">Ridimensiona barra di navigazione</string>
+  <!--Original value: Navigation bar height-->
+  <string name="navigation_bar_height_title">Altezza barra di navigazione</string>
+  <!--Original value: Navigation bar height while in portrait-->
+  <string name="navigation_bar_height_summary">Altezza barra di navigazione verticalmente</string>
+  <!--Original value: Navigation bar height landscape-->
+  <string name="navigation_bar_height_landscape_title">Altezza barra di navigazione orizontalmente</string>
+  <!--Original value: Navigation bar height while in landscape.-->
+  <string name="navigation_bar_height_landscape_summary">Altezza barra di navigazione orizzontalmente.</string>
+  <!--Original value: Navigation bar width-->
+  <string name="navigation_bar_width_title">Navigation bar width</string>
+  <!--Original value: Navigation bar height if the bar is along a side (Landscape)-->
+  <string name="navigation_bar_width_summary">Navigation bar height if the bar is along a side (Landscape)</string>
+  <!--Original value: 48 dp (default)-->
+  <string name="navigation_bar_size_48_dp_default">48 dp (default)</string>
+  <!--Original value: 44 dp-->
+  <string name="navigation_bar_size_44_dp">44 dp</string>
+  <!--Original value: 42 dp (default)-->
+  <string name="navigation_bar_size_42_dp_default">42 dp (default)</string>
+  <!--Original value: 42 dp-->
+  <string name="navigation_bar_size_42_dp">42 dp</string>
+  <!--Original value: 40 dp-->
+  <string name="navigation_bar_size_40_dp">40 dp</string>
+  <!--Original value: 36 dp-->
+  <string name="navigation_bar_size_36_dp">36 dp</string>
+  <!--Original value: 30 dp-->
+  <string name="navigation_bar_size_30_dp">30 dp</string>
+  <!--Original value: 24 dp-->
+  <string name="navigation_bar_size_24_dp">24 dp</string>
+  <!--Original value: 0 dp (off)-->
+  <string name="navigation_bar_size_0_dp">0 dp (off)</string>
+  <!--Original value: Navigation bar-->
+  <string name="nav_bar_title">Navigation bar</string>
+  <!--Original value: Navigation bar buttons-->
+  <string name="navbar_enable_bar_title">Navigation bar buttons</string>
+  <!--Original value: Enable on-screen nav bar buttons-->
+  <string name="navbar_enable_bar_summary">Enable on-screen nav bar buttons</string>
+  <!--Original value: Navigation button tint-->
+  <string name="navbar_button_tint_title">Navigation button tint</string>
+  <!--Original value: Navigation button tinting-->
+  <string name="navbar_button_tint_switch_title">Navigation button tinting</string>
+  <!--Original value: None-->
+  <string name="shortcut_action_none">None</string>
+  <!--Original value: Longpress:-->
+  <string name="shortcut_action_longpress">Longpress:</string>
+  <!--Original value: Choose longpress action:-->
+  <string name="shortcut_action_select_action_longpress">Choose longpress action:</string>
+  <!--Original value: Choose action:-->
+  <string name="shortcut_action_select_action">Choose action:</string>
+  <!--Original value: Choose new action:-->
+  <string name="shortcut_action_select_action_newaction">Choose new action:</string>
+  <!--Original value: Reset-->
+  <string name="shortcut_action_reset">Reset</string>
+  <!--Original value: Add-->
+  <string name="shortcut_action_add">Add</string>
+  <!--Original value: Reset all entries to default?-->
+  <string name="shortcut_action_reset_message">Reset all entries to default?</string>
+  <!--Original value: Maximum entries size has been reached-->
+  <string name="shortcut_action_max">Maximum entries size has been reached</string>
+  <!--Original value: Warning-->
+  <string name="shortcut_action_warning">Warning</string>
+  <!--Original value: It is not possible to delete last entry-->
+  <string name="shortcut_action_warning_message">It is not possible to delete last entry</string>
+  <!--Original value: Disabled\nAdd an entry to enable this feature-->
+  <string name="shortcut_action_disable_message">Disabled\nAdd an entry to enable this feature</string>
+  <!--Original value: The chosen app did not return a valid icon or does not support image cropping. Use another app.-->
+  <string name="shortcut_image_not_valid">The chosen app did not return a valid icon or does not support image cropping. Use another app.</string>
+  <!--Original value: The chosen action cannot be added twice-->
+  <string name="shortcut_duplicate_entry">The chosen action cannot be added twice</string>
+  <!--Original value: shortcut-->
+  <string name="shortcut_action_help_shortcut">shortcut</string>
+  <!--Original value: button-->
+  <string name="shortcut_action_help_button">button</string>
+  <!--Original value: app-->
+  <string name="shortcut_action_help_app">app</string>
+  <!--Original value: , while selecting the icon will bring up customization options-->
+  <string name="shortcut_action_help_icon">, while selecting the icon will bring up customization options</string>
+  <!--Original value: To add a %1$s, select the Add icon. Once a %1$s is added, selecting the row will change the target%2$s\n\nTo remove a %1$s, swipe the row horizontally left or right. Re-order a %1$s in the list by vertically dragging the anchor on the left.\n\nTo clear or reset to defaults, select the Reset icon.-->
+  <string name="shortcut_action_help_main">To add a %1$s, select the Add icon. Once a %1$s is added, selecting the row will change the target%2$s\n\nTo remove a %1$s, swipe the row horizontally left or right. Re-order a %1$s in the list by vertically dragging the anchor on the left.\n\nTo clear or reset to defaults, select the Reset icon.</string>
+  <!--Original value: Removing every %1$s in the list will disable the feature entirely.-->
+  <string name="shortcut_action_help_delete_last_entry">Removing every %1$s in the list will disable the feature entirely.</string>
+  <!--Original value: Removing every %1$s in the list will disable the second pie layer entirely.-->
+  <string name="shortcut_action_help_pie_second_layer_delete_last_entry">Removing every %1$s in the list will disable the second pie layer entirely.</string>
+  <!--Original value: Applications-->
+  <string name="shortcuts_applications">Applications</string>
+  <!--Original value: Select custom application-->
+  <string name="shortcuts_select_custom_app_title">Select custom application</string>
+  <!--Original value: Select icon type:-->
+  <string name="shortcuts_icon_picker_type">Select icon type:</string>
+  <!--Original value: Default-->
+  <string name="shortcuts_icon_default">Default</string>
+  <!--Original value: System icons-->
+  <string name="shortcuts_icon_presets">System icons</string>
+  <!--Original value: Gallery-->
+  <string name="shortcuts_icon_custom">Gallery</string>
+  <!--Original value: Choose icon-->
+  <string name="shortcuts_icon_picker_choose_icon_title">Choose icon</string>
+  <!--Original value: Alarm-->
+  <string name="shortcuts_icon_picker_alarm">Alarm</string>
+  <!--Original value: Andy-->
+  <string name="shortcuts_icon_picker_andy">Andy</string>
+  <!--Original value: Battery-->
+  <string name="shortcuts_icon_picker_battery">Battery</string>
+  <!--Original value: Browser-->
+  <string name="shortcuts_icon_picker_browser">Browser</string>
+  <!--Original value: Calendar-->
+  <string name="shortcuts_icon_picker_calendar">Calendar</string>
+  <!--Original value: Camera-->
+  <string name="shortcuts_icon_picker_camera">Camera</string>
+  <!--Original value: Cloud-->
+  <string name="shortcuts_icon_picker_cloud">Cloud</string>
+  <!--Original value: Contact-->
+  <string name="shortcuts_icon_picker_contact">Contact</string>
+  <!--Original value: Direct Dial-->
+  <string name="shortcuts_icon_picker_directdial">Direct Dial</string>
+  <!--Original value: Direct Message-->
+  <string name="shortcuts_icon_picker_directmessage">Direct Message</string>
+  <!--Original value: Drive-->
+  <string name="shortcuts_icon_picker_drive">Drive</string>
+  <!--Original value: Dropbox-->
+  <string name="shortcuts_icon_picker_dropbox">Dropbox</string>
+  <!--Original value: Email-->
+  <string name="shortcuts_icon_picker_email">Email</string>
+  <!--Original value: Email Alternate-->
+  <string name="shortcuts_icon_picker_email2">Email Alternate</string>
+  <!--Original value: Evernote-->
+  <string name="shortcuts_icon_picker_evernote">Evernote</string>
+  <!--Original value: Facebook-->
+  <string name="shortcuts_icon_picker_facebook">Facebook</string>
+  <!--Original value: Favorite-->
+  <string name="shortcuts_icon_picker_favorite">Favorite</string>
+  <!--Original value: File Browser-->
+  <string name="shortcuts_icon_picker_file_browser">File Browser</string>
+  <!--Original value: File Browser Alternate-->
+  <string name="shortcuts_icon_picker_file_browser2">File Browser Alternate</string>
+  <!--Original value: Fitness-->
+  <string name="shortcuts_icon_picker_fitness">Fitness</string>
+  <!--Original value: Gallery-->
+  <string name="shortcuts_icon_picker_gallery">Gallery</string>
+  <!--Original value: Gears-->
+  <string name="shortcuts_icon_picker_gears">Gears</string>
+  <!--Original value: Google-->
+  <string name="shortcuts_icon_picker_google_small">Google</string>
+  <!--Original value: Google Plus-->
+  <string name="shortcuts_icon_picker_gplus">Google Plus</string>
+  <!--Original value: Hangouts-->
+  <string name="shortcuts_icon_picker_gtalk">Hangouts</string>
+  <!--Original value: Help-->
+  <string name="shortcuts_icon_picker_help">Help</string>
+  <!--Original value: Joystick-->
+  <string name="shortcuts_icon_picker_joystick">Joystick</string>
+  <!--Original value: Keys/Accounts-->
+  <string name="shortcuts_icon_picker_key">Keys/Accounts</string>
+  <!--Original value: Laptop-->
+  <string name="shortcuts_icon_picker_laptop">Laptop</string>
+  <!--Original value: Notes-->
+  <string name="shortcuts_icon_picker_notes">Notes</string>
+  <!--Original value: Travel-->
+  <string name="shortcuts_icon_picker_luggage">Travel</string>
+  <!--Original value: Maps-->
+  <string name="shortcuts_icon_picker_maps">Maps</string>
+  <!--Original value: Market-->
+  <string name="shortcuts_icon_picker_market">Market</string>
+  <!--Original value: Movies-->
+  <string name="shortcuts_icon_picker_movie">Movies</string>
+  <!--Original value: Music-->
+  <string name="shortcuts_icon_picker_music">Music</string>
+  <!--Original value: Navigation-->
+  <string name="shortcuts_icon_picker_nav">Navigation</string>
+  <!--Original value: Phone-->
+  <string name="shortcuts_icon_picker_phone">Phone</string>
+  <!--Original value: Package-->
+  <string name="shortcuts_icon_picker_package">Package</string>
+  <!--Original value: Pinterest-->
+  <string name="shortcuts_icon_picker_pinterest">Pinterest</string>
+  <!--Original value: Play-->
+  <string name="shortcuts_icon_picker_play">Play</string>
+  <!--Original value: Pocket-->
+  <string name="shortcuts_icon_picker_pocket">Pocket</string>
+  <!--Original value: Quick Settings-->
+  <string name="shortcuts_icon_picker_quicksettings">Quick Settings</string>
+  <!--Original value: RSS Feed-->
+  <string name="shortcuts_icon_picker_rss">RSS Feed</string>
+  <!--Original value: SDCard-->
+  <string name="shortcuts_icon_picker_sdcard">SDCard</string>
+  <!--Original value: Search-->
+  <string name="shortcuts_icon_picker_search">Search</string>
+  <!--Original value: Messaging-->
+  <string name="shortcuts_icon_picker_sms">Messaging</string>
+  <!--Original value: Tasks-->
+  <string name="shortcuts_icon_picker_tasks">Tasks</string>
+  <!--Original value: Terminal-->
+  <string name="shortcuts_icon_picker_terminal">Terminal</string>
+  <!--Original value: Transit-->
+  <string name="shortcuts_icon_picker_transit">Transit</string>
+  <!--Original value: TV-->
+  <string name="shortcuts_icon_picker_tv">TV</string>
+  <!--Original value: Twitter-->
+  <string name="shortcuts_icon_picker_twitter">Twitter</string>
+  <!--Original value: Unlock-->
+  <string name="shortcuts_icon_picker_unlock">Unlock</string>
+  <!--Original value: Reset all entries to default?-->
+  <string name="reset_message">Reset all entries to default?</string>
+  <!--Original value: Mid-Screen Shortcuts-->
+  <string name="lockscreen_shortcuts_title">Mid-Screen Shortcuts</string>
+  <!--Original value: View or change custom lock screen shortcuts-->
+  <string name="lockscreen_shortcuts_summary">View or change custom lock screen shortcuts</string>
+  <!--Original value: Shortcut click type-->
+  <string name="lockscreen_shorcuts_launch_type_title">Shortcut click type</string>
+  <!--Original value: Click-->
+  <string name="lockscreen_shortcuts_single_tap">Click</string>
+  <!--Original value: Double tap-->
+  <string name="lockscreen_shortcuts_double_tap">Double tap</string>
+  <!--Original value: Longpress-->
+  <string name="lockscreen_shortcuts_longpress">Longpress</string>
+  <!--Original value: Help-->
+  <string name="help">Help</string>
+  <!--Original value: Custom app-->
+  <string name="shortcut_action_app">Custom app</string>
+  <!--Original value: Home-->
+  <string name="shortcut_action_home">Home</string>
+  <!--Original value: Back-->
+  <string name="shortcut_action_back">Back</string>
+  <!--Original value: Menu-->
+  <string name="shortcut_action_menu">Menu</string>
+  <!--Original value: Open IME Switcher-->
+  <string name="shortcut_action_ime">Open IME Switcher</string>
+  <!--Original value: Power menu-->
+  <string name="shortcut_action_power_menu">Power menu</string>
+  <!--Original value: Recents-->
+  <string name="shortcut_action_recent">Recents</string>
+  <!--Original value: Screen Off-->
+  <string name="shortcut_action_power">Screen Off</string>
+  <!--Original value: Search in app-->
+  <string name="shortcut_action_search">Search in app</string>
+  <!--Original value: Double tap power for camera vibration-->
+  <string name="dbl_tap_vib_title">Double tap power for camera vibration</string>
+  <!--Original value: Vibrate on double tap of power button when enabled-->
+  <string name="dbl_tap_vib_summary">Vibrate on double tap of power button when enabled</string>
+  <!--Original value: Warning color-->
+  <string name="battery_saver_color_title">Warning color</string>
+  <!--Original value: Enable orange status and navigation bars when battery saver is activated-->
+  <string name="battery_saver_color_summary">Enable orange status and navigation bars when battery saver is activated</string>
+  <!--Original value: Ambient display-->
+  <string name="display_category_doze_options_title">Ambient display</string>
+  <!--Original value: Advanced doze options-->
+  <string name="doze_settings_title">Advanced doze options</string>
+  <!--Original value: Doze pulse timeout-->
+  <string name="doze_timeout_title">Doze pulse timeout</string>
+  <!--Original value: Time that the screen stays on for notification pulse-->
+  <string name="doze_timeout_summary">Time that the screen stays on for notification pulse</string>
+  <!--Original value: Pick up gesture trigger-->
+  <string name="doze_trigger_pickup_title">Pick up gesture trigger</string>
+  <!--Original value: Doze pulse will be triggered by pick up gesture sensor events-->
+  <string name="doze_trigger_pickup_summary_on">Doze pulse will be triggered by pick up gesture sensor events</string>
+  <!--Original value: Pick up gesture sensor will not be utilized as a triggering mechanism-->
+  <string name="doze_trigger_pickup_summary_off">Pick up gesture sensor will not be utilized as a triggering mechanism</string>
+  <!--Original value: Significant motion trigger-->
+  <string name="doze_trigger_sigmotion_title">Significant motion trigger</string>
+  <!--Original value: Doze pulse will be triggered by significant motion sensor events-->
+  <string name="doze_trigger_sigmotion_summary_on">Doze pulse will be triggered by significant motion sensor events</string>
+  <!--Original value: Significant motion sensor will not be utilized as a triggering mechanism-->
+  <string name="doze_trigger_sigmotion_summary_off">Significant motion sensor will not be utilized as a triggering mechanism</string>
+  <!--Original value: Notification trigger-->
+  <string name="doze_trigger_notification_title">Notification trigger</string>
+  <!--Original value: Doze pulse will be triggered by notifications-->
+  <string name="doze_trigger_notification_summary_on">Doze pulse will be triggered by notifications</string>
+  <!--Original value: Notifications will not be utilized as a trigger-->
+  <string name="doze_trigger_notification_summary_off">Notifications will not be utilized as a trigger</string>
+  <!--Original value: Doze schedule-->
+  <string name="doze_schedule_title">Doze schedule</string>
+  <!--Original value: Predefined doze repeat intervals (normally [1s,10s,30s,60s,120s]) will be used (default)-->
+  <string name="doze_schedule_summary_on">Predefined doze repeat intervals (normally [1s,10s,30s,60s,120s]) will be used (default)</string>
+  <!--Original value: Doze will only pulse once per notification-->
+  <string name="doze_schedule_summary_off">Doze will only pulse once per notification</string>
+  <!--Original value: Doze brightness level-->
+  <string name="doze_brightness_title">Doze brightness level</string>
+  <!--Original value: Brightness level of doze pulse screen (% of max allowed brightness)-->
+  <string name="doze_brightness_summary">Brightness level of doze pulse screen (% of max allowed brightness)</string>
+  <!--Original value: Color inversion-->
+  <string name="doze_notification_color_invert_title">Color inversion</string>
+  <!--Original value: Ambient display notifications will not be inverted. Use for dark themes.-->
+  <string name="doze_notification_color_invert_summary_off">Ambient display notifications will not be inverted. Use for dark themes.</string>
+  <!--Original value: Ambient display notifications will show as inverted. Use for light/stock theme.-->
+  <string name="doze_notification_color_invert_summary_on">Ambient display notifications will show as inverted. Use for light/stock theme.</string>
+  <!--Original value: On-The-Go Mode-->
+  <string name="power_menu_onthego_title">On-The-Go Mode</string>
+  <!--Original value: On-The-Go Alpha-->
+  <string name="onthego_alpha_title">On-The-Go Alpha</string>
+  <!--Original value: Alpha value of the On-The-Go overlay.-->
+  <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay.</string>
+  <!--Original value: SlimDim-->
+  <string name="dim_nav_buttons_category">SlimDim</string>
+  <!--Original value: Dim buttons after inactivity-->
+  <string name="dim_nav_buttons_title">Dim buttons after inactivity</string>
+  <!--Original value: Dim navigation bar buttons after not interacting with navigation bar for a specified time-->
+  <string name="dim_nav_buttons_summary">Dim navigation bar buttons after not interacting with navigation bar for a specified time</string>
+  <!--Original value: Timeout before dimming-->
+  <string name="dim_nav_buttons_timeout_title">Timeout before dimming</string>
+  <!--Original value: Time (in milliseconds) to wait before dimming buttons-->
+  <string name="dim_nav_buttons_timeout_summary">Time (in milliseconds) to wait before dimming buttons</string>
+  <!--Original value: Dim alpha-->
+  <string name="dim_nav_buttons_alpha_title">Dim alpha</string>
+  <!--Original value: Alpha value to dim buttons to-->
+  <string name="dim_nav_buttons_alpha_summary">Alpha value to dim buttons to</string>
+  <!--Original value: Dim animation-->
+  <string name="dim_nav_buttons_animate_title">Dim animation</string>
+  <!--Original value: Animate the alpha fade-->
+  <string name="dim_nav_buttons_animate_summary">Animate the alpha fade</string>
+  <!--Original value: Animation duration-->
+  <string name="dim_nav_buttons_animate_duration_title">Animation duration</string>
+  <!--Original value: Duration (in milliseconds) of the alpha animation-->
+  <string name="dim_nav_buttons_animate_duration_summary">Duration (in milliseconds) of the alpha animation</string>
+  <!--Original value: Listen for touches on entire screen-->
+  <string name="dim_nav_buttons_touch_anywhere_title">Listen for touches on entire screen</string>
+  <!--Original value: Touching anywhere on the screen will cause buttons to un-dim-->
+  <string name="dim_nav_buttons_touch_anywhere_summary_on">Touching anywhere on the screen will cause buttons to un-dim</string>
+  <!--Original value: Only touches on the navbar will cause buttons to un-dim-->
+  <string name="dim_nav_buttons_touch_anywhere_summary_off">Only touches on the navbar will cause buttons to un-dim</string>
+  <!--Original value: Notifications-->
+  <string name="notifications_category_title">Notifications</string>
+  <!--Original value: Less frequent notification sounds-->
+  <string name="less_notification_sounds_title">Less frequent notification sounds</string>
+  <!--Original value: Limit the notification sounds of each app to only play once per set time period-->
+  <string name="less_notification_sounds_summary">Limit the notification sounds of each app to only play once per set time period</string>
+  <!--Original value: Default Behaviour-->
+  <string name="less_notification_sounds_default">Default Behaviour</string>
+  <!--Original value: 3 seconds-->
+  <string name="less_notification_sounds_3s">3 seconds</string>
+  <!--Original value: 5 seconds-->
+  <string name="less_notification_sounds_5s">5 seconds</string>
+  <!--Original value: 10 seconds-->
+  <string name="less_notification_sounds_10s">10 seconds</string>
+  <!--Original value: 15 seconds-->
+  <string name="less_notification_sounds_15s">15 seconds</string>
+  <!--Original value: 30 seconds-->
+  <string name="less_notification_sounds_30s">30 seconds</string>
+  <!--Original value: 45 seconds-->
+  <string name="less_notification_sounds_45s">45 seconds</string>
+  <!--Original value: 1 minute-->
+  <string name="less_notification_sounds_1m">1 minute</string>
+  <!--Original value: 2 minutes-->
+  <string name="less_notification_sounds_2m">2 minutes</string>
+  <!--Original value: 5 minutes-->
+  <string name="less_notification_sounds_5m">5 minutes</string>
+  <!--Original value: Battery saver notification-->
+  <string name="battery_saver_notif_title">Battery saver notification</string>
+  <!--Original value: Show battery saver notification when enabled-->
+  <string name="battery_saver_notif_summary">Show battery saver notification when enabled</string>
+  <!--Original value: Low battery notification-->
+  <string name="battery_low_notif_title">Low battery notification</string>
+  <!--Original value: Show low battery notification when enabled-->
+  <string name="battery_low_notif_summary">Show low battery notification when enabled</string>
+  <!--Original value: Date-->
+  <string name="status_bar_date_title">Date</string>
+  <!--Original value: Hidden (default)-->
+  <string name="status_bar_date_none">Hidden (default)</string>
+  <!--Original value: Small-->
+  <string name="status_bar_date_small">Small</string>
+  <!--Original value: Normal-->
+  <string name="status_bar_date_normal">Normal</string>
+  <!--Original value: Date format-->
+  <string name="status_bar_date_format_title">Date format</string>
+  <!--Original value: Date style-->
+  <string name="status_bar_date_style">Date style</string>
+  <!--Original value: Normal-->
+  <string name="status_bar_date_style_normal">Normal</string>
+  <!--Original value: Lowercase-->
+  <string name="status_bar_date_style_lowercase">Lowercase</string>
+  <!--Original value: Uppercase-->
+  <string name="status_bar_date_style_uppercase">Uppercase</string>
+  <!--Original value: Custom java format-->
+  <string name="status_bar_date_format_custom">Custom java format</string>
+  <!--Original value: Must be in DateFormat eg. MM/dd/yy-->
+  <string name="status_bar_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
+  <!--Original value: Enter string-->
+  <string name="status_bar_date_string_edittext_summary">Enter string</string>
+  <!--Original value: Clock-->
+  <string name="status_bar_clock_category">Clock</string>
+  <!--Original value: Color-->
+  <string name="clock_color_title">Color</string>
+  <!--Original value: Reset color-->
+  <string name="status_bar_clock_style_reset">Reset color</string>
+  <!--Original value: Reset clock color?-->
+  <string name="status_bar_clock_style_reset_message">Reset clock color?</string>
+  <!--Original value: Font-->
+  <string name="clock_font_style_title">Font</string>
+  <!--Original value: Normal-->
+  <string name="clock_font_normal">Normal</string>
+  <!--Original value: Italic-->
+  <string name="clock_font_italic">Italic</string>
+  <!--Original value: Bold-->
+  <string name="clock_font_bold">Bold</string>
+  <!--Original value: Bold Italic-->
+  <string name="clock_font_bold_italic">Bold Italic</string>
+  <!--Original value: Light-->
+  <string name="clock_font_light">Light</string>
+  <!--Original value: Light Italic-->
+  <string name="clock_font_light_italic">Light Italic</string>
+  <!--Original value: Thin-->
+  <string name="clock_font_thin">Thin</string>
+  <!--Original value: Thin Italic-->
+  <string name="clock_font_thin_italic">Thin Italic</string>
+  <!--Original value: Condensed-->
+  <string name="clock_font_condensed">Condensed</string>
+  <!--Original value: Condensed Italic-->
+  <string name="clock_font_condensed_italic">Condensed Italic</string>
+  <!--Original value: Condensed Light-->
+  <string name="clock_font_condensed_light">Condensed Light</string>
+  <!--Original value: Condensed Light Italic-->
+  <string name="clock_font_condensed_light_italic">Condensed Light Italic</string>
+  <!--Original value: Condensed Bold-->
+  <string name="clock_font_condensed_bold">Condensed Bold</string>
+  <!--Original value: Condensed Bold Italic-->
+  <string name="clock_font_condensed_bold_italic">Condensed Bold Italic</string>
+  <!--Original value: Medium-->
+  <string name="clock_font_medium">Medium</string>
+  <!--Original value: Medium Italic-->
+  <string name="clock_font_medium_italic">Medium Italic</string>
+  <!--Original value: Black-->
+  <string name="clock_font_black">Black</string>
+  <!--Original value: Black Italic-->
+  <string name="clock_font_black_italic">Black Italic</string>
+  <!--Original value: DancingScript-->
+  <string name="clock_font_dancingscript">DancingScript</string>
+  <!--Original value: DancingScript Bold-->
+  <string name="clock_font_dancingscript_bold">DancingScript Bold</string>
+  <!--Original value: ComingSoon-->
+  <string name="clock_font_comingsoon">ComingSoon</string>
+  <!--Original value: NotoSerif Normal-->
+  <string name="clock_font_notoserif">NotoSerif Normal</string>
+  <!--Original value: NotoSerif Italic-->
+  <string name="clock_font_notoserif_italic">NotoSerif Italic</string>
+  <!--Original value: NotoSerif Bold-->
+  <string name="clock_font_notoserif_bold">NotoSerif Bold</string>
+  <!--Original value: NotoSerif Bold Italic-->
+  <string name="clock_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
+  <!--Original value: Font size-->
+  <string name="clock_font_size_title">Font size</string>
+  <!--Original value: 4-->
+  <string name="clock_font_size_4">4</string>
+  <!--Original value: 5-->
+  <string name="clock_font_size_5">5</string>
+  <!--Original value: 6-->
+  <string name="clock_font_size_6">6</string>
+  <!--Original value: 7-->
+  <string name="clock_font_size_7">7</string>
+  <!--Original value: 8-->
+  <string name="clock_font_size_8">8</string>
+  <!--Original value: 9-->
+  <string name="clock_font_size_9">9</string>
+  <!--Original value: 10-->
+  <string name="clock_font_size_10">10</string>
+  <!--Original value: 11-->
+  <string name="clock_font_size_11">11</string>
+  <!--Original value: 12-->
+  <string name="clock_font_size_12">12</string>
+  <!--Original value: 13-->
+  <string name="clock_font_size_13">13</string>
+  <!--Original value: 14-->
+  <string name="clock_font_size_14">14</string>
+  <!--Original value: 15-->
+  <string name="clock_font_size_15">15</string>
+  <!--Original value: 16-->
+  <string name="clock_font_size_16">16</string>
+  <!--Original value: 17-->
+  <string name="clock_font_size_17">17</string>
+  <!--Original value: 18-->
+  <string name="clock_font_size_18">18</string>
+  <!--Original value: 19-->
+  <string name="clock_font_size_19">19</string>
+  <!--Original value: 20-->
+  <string name="clock_font_size_20">20</string>
+  <!--Original value: 21-->
+  <string name="clock_font_size_21">21</string>
+  <!--Original value: 22-->
+  <string name="clock_font_size_22">22</string>
+  <!--Original value: 23-->
+  <string name="clock_font_size_23">23</string>
+  <!--Original value: Quick unlock-->
+  <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+  <!--Original value: Unlock automatically when the correct PIN/password is entered-->
+  <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+  <!--Original value: Advanced options-->
+  <string name="title_keyboard_input">Advanced options</string>
+  <!--Original value: Disable fullscreen keyboard-->
+  <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
+  <!--Original value: Landscape keyboard will never take up entire screen-->
+  <string name="disable_fullscreen_keyboard_summary">Landscape keyboard will never take up entire screen</string>
+  <!--Original value: Auto keyboard rotation-->
+  <string name="keyboard_rotation_toggle_title">Auto keyboard rotation</string>
+  <!--Original value: Force auto-rotate when keyboard is shown-->
+  <string name="keyboard_rotation_toggle_summary">Force auto-rotate when keyboard is shown</string>
+  <!--Original value: Auto-rotate timeout-->
+  <string name="keyboard_rotation_timeout_title">Auto-rotate timeout</string>
+  <!--Original value: Disables auto-rotate sensor %1$s seconds after keyboard is hidden-->
+  <string name="keyboard_rotation_timeout_summary">Disables auto-rotate sensor %1$s seconds after keyboard is hidden</string>
+  <!--Original value: This feature forces auto-rotate to turn on temporarily while the keyboard is shown.  It has no effect when auto-rotate is already enabled.-->
+  <string name="keyboard_rotation_dialog">This feature forces auto-rotate to turn on temporarily while the keyboard is shown.  It has no effect when auto-rotate is already enabled.</string>
+  <!--Original value: Show enter key-->
+  <string name="show_enter_key_title">Show enter key</string>
+  <!--Original value: Force keyboard to show enter instead of emoticon key-->
+  <string name="show_enter_key_summary">Force keyboard to show enter instead of emoticon key</string>
+  <!--Original value: Reset stats-->
+  <string name="battery_stats_reset">Reset stats</string>
+  <!--Original value: Battery history stats are going to be reset-->
+  <string name="battery_stats_message">Battery history stats are going to be reset</string>
+  <!--Original value: Ok-->
+  <string name="ok_string">Ok</string>
+  <!--Original value: Slim Recents-->
+  <string name="recent_panel_category">Slim Recents</string>
+  <!--Original value: App sidebar-->
+  <string name="recent_app_sidebar_title">App sidebar</string>
+  <!--Original value: Show app shortcuts on the other edge-->
+  <string name="recent_app_sidebar_summary">Show app shortcuts on the other edge</string>
+  <!--Original value: Sidebar style-->
+  <string name="recent_app_sidebar_style_title">Sidebar style</string>
+  <!--Original value: Change recent app sidebar style-->
+  <string name="recent_app_sidebar_style_summary">Change recent app sidebar style</string>
+  <!--Original value: Hide icon labels-->
+  <string name="recent_app_sidebar_hide_labels_title">Hide icon labels</string>
+  <!--Original value: Label color-->
+  <string name="recent_app_sidebar_label_color_title">Label color</string>
+  <!--Original value: Background color-->
+  <string name="recent_app_sidebar_bg_color_title">Background color</string>
+  <!--Original value: Size-->
+  <string name="recent_app_sidebar_scale_title">Size</string>
+  <!--Original value: Hide when locked-->
+  <string name="app_notification_no_keyguard_title">Hide when locked</string>
+  <!--Original value: Hide notifications of this app when device is locked-->
+  <string name="app_notification_no_keyguard_summary">Hide notifications of this app when device is locked</string>
+  <!--Original value: Hidden when locked-->
+  <string name="filter_notif_no_keyguard">Hidden when locked</string>
+  <!--Original value: Hidden when locked-->
+  <string name="notifications_no_keyguard">Hidden when locked</string>
+  <!--Original value: %1$s / %2$s / %3$s / %4$s-->
+  <string name="notifications_four_items">%1$s / %2$s / %3$s / %4$s</string>
+  <!--Original value: Wakelock Blocker-->
+  <string name="wakelock_blocker_title">Wakelock Blocker</string>
+  <!--Original value: Block system wakelocks-->
+  <string name="wakelock_blocker_summary">Block system wakelocks</string>
+  <!--Original value: Save-->
+  <string name="wakelock_blocker_save">Save</string>
+  <!--Original value: Available wakelocks-->
+  <string name="wakelock_list_header">Available wakelocks</string>
+  <!--Original value: Reload-->
+  <string name="wakelock_blocker_reload">Reload</string>
+  <!--Original value: Proceed with caution-->
+  <string name="wakelock_blocker_warning_title">Proceed with caution</string>
+  <!--Original value: Blocking wakelocks have the potential to cause instability, crashes or data loss-->
+  <string name="wakelock_blocker_warning">Blocking wakelocks have the potential to cause instability, crashes or data loss</string>
+  <!--Original value: Show CPU info-->
+  <string name="show_cpu_info">Show CPU info</string>
+  <!--Original value: Screen overlay showing current CPU info-->
+  <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
+  <!--Original value: Settings-->
+  <string name="dev_settings_action_button">Settings</string>
+  <!--Original value: Dashboard settings-->
+  <string name="dashboard_category">Dashboard settings</string>
+  <!--Original value: Dashboard Columns-->
+  <string name="dashboard_columns_title">Dashboard Columns</string>
+  <!--Original value: Change the number of columns displayed in the dashboard-->
+  <string name="dashboard_columns_summary">Change the number of columns displayed in the dashboard</string>
+  <!--Original value: Select dashboard columns-->
+  <string name="dashboard_columns_dialog_title">Select dashboard columns</string>
+  <!--Original value: One-->
+  <string name="dashboard_columns_one">One</string>
+  <!--Original value: Two-->
+  <string name="dashboard_columns_two">Two</string>
+  <!--Original value: Three-->
+  <string name="dashboard_columns_three">Three</string>
+  <!--Original value: Dashboard title view-->
+  <string name="dashboard_tileview_double_lines_title">Dashboard title view</string>
+  <!--Original value: Show dashboard tile titles in 2 lines-->
+  <string name="dashboard_tileview_double_lines_summary">Show dashboard tile titles in 2 lines</string>
+  <!--Original value: Dashboard dividers-->
+  <string name="dashboard_tileview_dividers_title">Dashboard dividers</string>
+  <!--Original value: Hide dashboard tile dividers-->
+  <string name="dashboard_tileview_dividers_summary">Hide dashboard tile dividers</string>
+  <!--Original value: Dashboard Switches-->
+  <string name="dashboard_switches_title">Dashboard Switches</string>
+  <!--Original value: Switches Off-->
+  <string name="dashboard_switches_off">Switches Off</string>
+  <!--Original value: Switches On-->
+  <string name="dashboard_switches_on">Switches On</string>
+  <!--Original value: Change the position of the dashboard switches-->
+  <string name="dashboard_switches_summary">Change the position of the dashboard switches</string>
+  <!--Original value: Select switch state-->
+  <string name="dashboard_switches_dialog_title">Select switch state</string>
+  <!--Original value: Selinux Switch options-->
+  <string name="selinux_switch_title">Selinux Switch options</string>
+  <!--Original value: SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects. Use at your own risk.-->
+  <string name="selinux_switch_summary">SELinux is a set of kernel modifications and user-space tools. Changing modes can cause unwanted effects. Use at your own risk.</string>
+  <!--Original value: Selinux Mode-->
+  <string name="selinux_title">Selinux Mode</string>
+  <!--Original value: Permissive-->
+  <string name="selinux_permissive_title">Permissive</string>
+  <!--Original value: Enforcing-->
+  <string name="selinux_enforcing_title">Enforcing</string>
+  <!--Original value: Selinux set to permissive!-->
+  <string name="selinux_permissive_toast_title">Selinux set to permissive!</string>
+  <!--Original value: Rotation animation for icons-->
+  <string name="nav_buttons_rotation_title">Rotation animation for icons</string>
+  <!--Original value: Enable for icons to rotate when screen is rotated or navbar recreated.-->
+  <string name="nav_buttons_rotation_summary">Enable for icons to rotate when screen is rotated or navbar recreated.</string>
+  <!--Original value: Date position-->
+  <string name="clock_date_position">Date position</string>
+  <!--Original value: Right of time-->
+  <string name="clock_date_right">Right of time</string>
+  <!--Original value: Left of time-->
+  <string name="clock_date_left">Left of time</string>
+  <!--Original value: Volume key answer-->
+  <string name="volume_answer_call_title">Volume key answer</string>
+  <!--Original value: Volume up key answers call-->
+  <string name="volume_answer_call_summary">Volume up key answers call</string>
+  <!--Original value: NFC polling mode-->
+  <string name="nfc_polling_mode_title">NFC polling mode</string>
+  <!--Original value: Screen off-->
+  <string name="nfc_polling_mode_screen_off">Screen off</string>
+  <!--Original value: Screen on, locked-->
+  <string name="nfc_polling_mode_screen_locked">Screen on, locked</string>
+  <!--Original value: Screen on, unlocked (default)-->
+  <string name="nfc_polling_mode_screen_unlocked">Screen on, unlocked (default)</string>
+  <!--Original value: NFC sound mode-->
+  <string name="nfc_sound_mode_title">NFC sound mode</string>
+  <!--Original value: Sound-->
+  <string name="nfc_sound_mode_default">Sound</string>
+  <!--Original value: Vibration-->
+  <string name="nfc_sound_mode_vibration">Vibration</string>
+  <!--Original value: Mute-->
+  <string name="nfc_sound_mode_mute">Mute</string>
+  <!--Original value: Torch-->
+  <string name="power_menu_torch_title">Torch</string>
+  <!--Original value: Tha Navbar-->
+  <string name="aicp_navbar_settings">Tha Navbar</string>
+  <!--Original value: Interface-->
+  <string name="navbar_interface_title">Interface</string>
+  <!--Original value: Bar size-->
+  <string name="navbar_size">Bar size</string>
+  <!--Original value: Navigation mode-->
+  <string name="navbar_mode">Navigation mode</string>
+  <!--Original value: Enable navigation bar-->
+  <string name="navbar_visibility">Enable navigation bar</string>
+  <!--Original value: Navigation-->
+  <string name="navigationbar_settings_title">Navigation</string>
+  <!--Original value: Navigation bar-->
+  <string name="aosp_navigation_bar">Navigation bar</string>
+  <!--Original value: Navigation bar settings-->
+  <string name="aosp_navigation_bar_settings">Navigation bar settings</string>
+  <!--Original value: Customize navigation style and behavior-->
+  <string name="navigationbar_settings_summary">Customize navigation style and behavior</string>
+  <!--Original value: Advanced-->
+  <string name="navbar_general_title">Advanced</string>
+  <!--Original value: Left-handed mode-->
+  <string name="navigation_bar_left_title">Left-handed mode</string>
+  <!--Original value: Place the navigation bar on the left side of the screen in landscape mode-->
+  <string name="navigation_bar_left_summary">Place the navigation bar on the left side of the screen in landscape mode</string>
+  <!--Original value: Note-->
+  <string name="info_pref_note_title">Note</string>
+  <!--Original value: SmartBar-->
+  <string name="smartbar_interface">SmartBar</string>
+  <!--Original value: Icon packs-->
+  <string name="icon_pack_picker_dialog_title">Icon packs</string>
+  <!--Original value: Choose action-->
+  <string name="choose_action_title">Choose action</string>
+  <!--Original value: Default settings-->
+  <string name="action_entry_default_action">Default settings</string>
+  <!--Original value: Select application-->
+  <string name="action_entry_select_app">Select application</string>
+  <!--Original value: Select custom action-->
+  <string name="action_entry_custom_action">Select custom action</string>
+  <!--Original value: action_default-->
+  <string name="action_value_default_action">action_default</string>
+  <!--Original value: action_app-->
+  <string name="action_value_select_app">action_app</string>
+  <!--Original value: action_custom-->
+  <string name="action_value_custom_action">action_custom</string>
+  <!--Original value: default-->
+  <string name="action_value_default_action" />
+  <!--Original value: app-->
+  <string name="action_value_select_app" />
+  <!--Original value: task_back-->
+  <string name="action_value_back">task_back</string>
+  <!--Original value: task_home-->
+  <string name="action_value_home">task_home</string>
+  <!--Original value: task_assist-->
+  <string name="action_value_search_assist">task_assist</string>
+  <!--Original value: task_recents-->
+  <string name="action_value_recent_apps">task_recents</string>
+  <!--Original value: task_voice_search-->
+  <string name="action_value_voice_search">task_voice_search</string>
+  <!--Original value: task_menu-->
+  <string name="action_value_menu">task_menu</string>
+  <!--Original value: Fling settings-->
+  <string name="fling_settings">Fling settings</string>
+  <!--Original value: Fling gesture interface-->
+  <string name="fling_interface">Fling gesture interface</string>
+  <!--Original value: Enable Fling-->
+  <string name="fling_enable_title">Enable Fling</string>
+  <!--Original value: Back and Home are required to be set at all times. To change a Back or Home assignment, set the desired assignment first-->
+  <string name="fling_back_home_policy">Back and Home are required to be set at all times. To change a Back or Home assignment, set the desired assignment first</string>
+  <!--Original value: When only a right or left action is assigned, the action applies to the full bar-->
+  <string name="fling_split_bar_policy">When only a right or left action is assigned, the action applies to the full bar</string>
+  <!--Original value: No action set-->
+  <string name="fling_def_summary">No action set</string>
+  <!--Original value: Swipe gestures-->
+  <string name="fling_swipe_actions">Swipe gestures</string>
+  <!--Original value: Tap gestures-->
+  <string name="fling_tap_actions">Tap gestures</string>
+  <!--Original value: Right short swipe-->
+  <string name="fling_short_swipe_right">Right short swipe</string>
+  <!--Original value: Left short swipe-->
+  <string name="fling_short_swipe_left">Left short swipe</string>
+  <!--Original value: Right long swipe-->
+  <string name="fling_long_swipe_right">Right long swipe</string>
+  <!--Original value: Left long swipe-->
+  <string name="fling_long_swipe_left">Left long swipe</string>
+  <!--Original value: Right side swipe up-->
+  <string name="fling_right_up_swipe">Right side swipe up</string>
+  <!--Original value: Left side swipe up-->
+  <string name="fling_left_up_swipe">Left side swipe up</string>
+  <!--Original value: Single tap right-->
+  <string name="fling_single_tap">Single tap right</string>
+  <!--Original value: Double tap right-->
+  <string name="fling_double_tap">Double tap right</string>
+  <!--Original value: Long press right-->
+  <string name="fling_long_press">Long press right</string>
+  <!--Original value: Single tap left-->
+  <string name="fling_single_left_tap">Single tap left</string>
+  <!--Original value: Double tap left-->
+  <string name="fling_double_left_tap">Double tap left</string>
+  <!--Original value: Long press left-->
+  <string name="fling_long_left_press">Long press left</string>
+  <!--Original value: Portrait-->
+  <string name="long_swipe_portrait_title">Portrait</string>
+  <!--Original value: Landscape-->
+  <string name="long_swipe_landscape_title">Landscape</string>
+  <!--Original value: Right swipe-->
+  <string name="right_swipe_title">Right swipe</string>
+  <!--Original value: Left swipe-->
+  <string name="left_swipe_title">Left swipe</string>
+  <!--Original value: Up swipe-->
+  <string name="up_swipe_title">Up swipe</string>
+  <!--Original value: Down swipe-->
+  <string name="down_swipe_title">Down swipe</string>
+  <!--Original value: Reset-->
+  <string name="long_swipe_reset">Reset</string>
+  <!--Original value: Advanced-->
+  <string name="fling_advanced">Advanced</string>
+  <!--Original value: Long swipe threshold-->
+  <string name="fling_long_swipe_title">Long swipe threshold</string>
+  <!--Original value: Fine tune long swipe thresholds based on a percentage of Fling interface width or height-->
+  <string name="fling_long_swipe_summary">Fine tune long swipe thresholds based on a percentage of Fling interface width or height</string>
+  <!--Original value: Enable gesture trails-->
+  <string name="fling_trails_enable_title">Enable gesture trails</string>
+  <!--Original value: Show a trail on swipe gestures-->
+  <string name="fling_trails_enable_summary">Show a trail on swipe gestures</string>
+  <!--Original value: Trail color-->
+  <string name="fling_trails_color_title">Trail color</string>
+  <!--Original value: Appearance-->
+  <string name="fling_appearance">Appearance</string>
+  <!--Original value: Show Fling logo-->
+  <string name="fling_show_logo_title">Show Fling logo</string>
+  <!--Original value: Animate logo-->
+  <string name="fling_animate_logo_title">Animate logo</string>
+  <!--Original value: Logo animates on touch events-->
+  <string name="fling_animate_logo_summary">Logo animates on touch events</string>
+  <!--Original value: Logo color-->
+  <string name="fling_logo_color">Logo color</string>
+  <!--Original value: Custom logo icon-->
+  <string name="fling_logo_custom_logo_pick_title">Custom logo icon</string>
+  <!--Original value: Custom logo image-->
+  <string name="fling_logo_custom_logo_image_pick_title">Custom logo image</string>
+  <!--Original value: Reset logo icon-->
+  <string name="fling_logo_custom_logo_reset_title">Reset logo icon</string>
+  <!--Original value: Show ripple-->
+  <string name="fling_show_ripple_title">Show ripple</string>
+  <!--Original value: Ripple effect on touch events-->
+  <string name="fling_show_ripple_summary">Ripple effect on touch events</string>
+  <!--Original value: Ripple color-->
+  <string name="fling_ripple_color">Ripple color</string>
+  <!--Original value: Less delay-->
+  <string name="fling_longpress_timeout_label_left">Less delay</string>
+  <!--Original value: More delay-->
+  <string name="fling_longpress_timeout_label_right">More delay</string>
+  <!--Original value: Long press delay-->
+  <string name="fling_longpress_title">Long press delay</string>
+  <!--Original value: Increase or decrease the time it takes to execute a long press-->
+  <string name="fling_longpress_summary">Increase or decrease the time it takes to execute a long press</string>
+  <!--Original value: About Pulse-->
+  <string name="pulse_help_policy_notice_title">About Pulse</string>
+  <!--Original value: Pulse is brilliant equalizer bar style audio visualization on the navigation bar when music plays. Pulse does not work with some audio sources when listening on device speaker-->
+  <string name="pulse_help_policy_notice_summary">Pulse is brilliant equalizer bar style audio visualization on the navigation bar when music plays. Pulse does not work with some audio sources when listening on device speaker</string>
+  <!--Original value: Pulse-->
+  <string name="pulse_settings">Pulse</string>
+  <!--Original value: Navigation bar audio visualization-->
+  <string name="pulse_settings_summary">Navigation bar audio visualization</string>
+  <!--Original value: Show Pulse-->
+  <string name="fling_show_pulse_title">Show Pulse</string>
+  <!--Original value: Audio visualization on the navigation bar-->
+  <string name="fling_show_pulse_summary">Audio visualization on the navigation bar</string>
+  <!--Original value: Pulse color-->
+  <string name="fling_pulse_color">Pulse color</string>
+  <!--Original value: Turn on Lava Lamp-->
+  <string name="eos_fling_lavalamp_title">Turn on Lava Lamp</string>
+  <!--Original value: Pulse animates a smooth lava lamp style color blend-->
+  <string name="eos_fling_lavalamp_summary">Pulse animates a smooth lava lamp style color blend</string>
+  <!--Original value: Bar size-->
+  <string name="navigation_bar_size_title">Bar size</string>
+  <!--Original value: Portrait height-->
+  <string name="portrait_title">Portrait height</string>
+  <!--Original value: Landscape width-->
+  <string name="land_vert_title">Landscape width</string>
+  <!--Original value: Landscape height-->
+  <string name="land_hor_title">Landscape height</string>
+  <!--Original value: Done-->
+  <string name="positive_done">Done</string>
+  <!--Original value: Smartbar-->
+  <string name="smartbar_category">Smartbar</string>
+  <!--Original value: Smartbar settings-->
+  <string name="smartbar_settings_title">Smartbar settings</string>
+  <!--Original value: Toggle button editor-->
+  <string name="smartbar_editor_title">Toggle button editor</string>
+  <!--Original value: Medium press and drag to change position. Long press to show edit menu. Button position may be changed while menu is showing.-->
+  <string name="smartbar_editor_summary">Medium press and drag to change position. Long press to show edit menu. Button position may be changed while menu is showing.</string>
+  <!--Original value: Context buttons layout position-->
+  <string name="smartbar_context_menu_position_title">Context buttons layout position</string>
+  <!--Original value: Set the position of contextual buttons such as menu and ime selector-->
+  <string name="smartbar_context_menu_position_summary">Set the position of contextual buttons such as menu and ime selector</string>
+  <!--Original value: Right-->
+  <string name="smartbar_right">Right</string>
+  <!--Original value: Left-->
+  <string name="smartbar_left">Left</string>
+  <!--Original value: Button touch animation-->
+  <string name="smartbar_button_animation_title">Button touch animation</string>
+  <!--Original value: Set the animation style of the primary buttons when they are pressed-->
+  <string name="smartbar_button_animation_summary">Set the animation style of the primary buttons when they are pressed</string>
+  <!--Original value: Ripple-->
+  <string name="smartbar_button_animation_ripple">Ripple</string>
+  <!--Original value: Spring-->
+  <string name="smartbar_button_animation_spring">Spring</string>
+  <!--Original value: Restore stock settings-->
+  <string name="smartbar_factory_reset_title">Restore stock settings</string>
+  <!--Original value: Smartbar will reset to a factory configuration-->
+  <string name="smartbar_factory_reset_summary">Smartbar will reset to a factory configuration</string>
+  <!--Original value: Are you sure you want to reset Smartbar to stock settings?-->
+  <string name="smartbar_factory_reset_confirm">Are you sure you want to reset Smartbar to stock settings?</string>
+  <!--Original value: Input method actions-->
+  <string name="smartbar_ime_action_title">Input method actions</string>
+  <!--Original value: Set what buttons to show when a on-screen keyboard is showing-->
+  <string name="smartbar_ime_action_summary">Set what buttons to show when a on-screen keyboard is showing</string>
+  <!--Original value: None-->
+  <string name="smartbar_ime_action_none">None</string>
+  <!--Original value: Input arrows-->
+  <string name="smartbar_ime_action_arrows">Input arrows</string>
+  <!--Original value: Keyboard switcher-->
+  <string name="smartbar_ime_action_switcher">Keyboard switcher</string>
+  <!--Original value: Time out-->
+  <string name="heads_up_time_out_title">Time out</string>
+  <!--Original value: Notification will show for %d seconds-->
+  <string name="heads_up_time_out_summary">Notification will show for %d seconds</string>
+  <!--Original value: 2 seconds-->
+  <string name="heads_up_time_out_2sec">2 seconds</string>
+  <!--Original value: 4 seconds-->
+  <string name="heads_up_time_out_4sec">4 seconds</string>
+  <!--Original value: 5 seconds-->
+  <string name="heads_up_time_out_5sec">5 seconds</string>
+  <!--Original value: 6 seconds-->
+  <string name="heads_up_time_out_6sec">6 seconds</string>
+  <!--Original value: 8 seconds-->
+  <string name="heads_up_time_out_8sec">8 seconds</string>
+  <!--Original value: 10 seconds-->
+  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <!--Original value: Snooze-->
+  <string name="heads_up_snooze">Snooze</string>
+  <!--Original value: Notifications will NOT be shown for the next %d minutes-->
+  <string name="heads_up_snooze_summary">Notifications will NOT be shown for the next %d minutes</string>
+  <!--Original value: 1 minute-->
+  <string name="heads_up_snooze_1min">1 minute</string>
+  <!--Original value: 5 minutes-->
+  <string name="heads_up_snooze_5min">5 minutes</string>
+  <!--Original value: 10 minutes-->
+  <string name="heads_up_snooze_10min">10 minutes</string>
+  <!--Original value: 15 minutes-->
+  <string name="heads_up_snooze_15min">15 minutes</string>
+  <!--Original value: 20 minutes-->
+  <string name="heads_up_snooze_20min">20 minutes</string>
+  <!--Original value: 30 minutes-->
+  <string name="heads_up_snooze_30min">30 minutes</string>
+  <!--Original value: 45 minutes-->
+  <string name="heads_up_snooze_45min">45 minutes</string>
+  <!--Original value: 60 minutes-->
+  <string name="heads_up_snooze_60min">60 minutes</string>
+  <!--Original value: Force heads up-->
+  <string name="force_headsup_title">Force heads up</string>
+  <!--Original value: Force heads up in all applications-->
+  <string name="force_headsup_summary">Force heads up in all applications</string>
+  <!--Original value: Double-tap to wake on doze-->
+  <string name="doze_wakeup_doubletap_title">Double-tap to wake on doze</string>
+  <!--Original value: Require a double-tap to wake the device on a doze pulse screen-->
+  <string name="doze_wakeup_doubletap_summary_on">Require a double-tap to wake the device on a doze pulse screen</string>
+  <!--Original value: Require a simple-tap to wake the device on a doze pulse screen (default)-->
+  <string name="doze_wakeup_doubletap_summary_off">Require a simple-tap to wake the device on a doze pulse screen (default)</string>
+</resources>
